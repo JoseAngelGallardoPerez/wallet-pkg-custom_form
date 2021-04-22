@@ -1,0 +1,6 @@
+github.com/Confialink/wallet-pkg-types v0.0.0-20210217112028-920c305b25ec h1:yGMAkP1lEUrr2eiqO3b+ncrSgYKf9z78TxjRnN4Mte0=
+github.com/Confialink/wallet-pkg-types v0.0.0-20210217112028-920c305b25ec/go.mod h1:RLiE6mBhNg0vyjmqa9sdyZtBk0Gm5OeKulxCnoD//bI=
+gopkg.in/go-playground/assert.v1 v1.2.1 h1:xoYuJVE7KT85PYWrN730RguIQO0ePzVRfFMXadIrXTM=
+gopkg.in/go-playground/assert.v1 v1.2.1/go.mod h1:9RXL0bg/zibRAgZUYszZSwO/z8Y/a8bDuhia5mkpMnE=
+gopkg.in/go-playground/validator.v8 v8.18.2 h1:lFB4DoMU6B626w8ny76MV7VX6W2VHct2GVOI3xgiMrQ=
+gopkg.in/go-playground/validator.v8 v8.18.2/go.mod h1:RX2a/7Ha8BgOhfk7j780h4/u/RRjR0eouCJSH80/M2Y=
